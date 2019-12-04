@@ -1,0 +1,2 @@
+# bugu
+just another repository
